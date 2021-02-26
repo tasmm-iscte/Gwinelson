@@ -6,6 +6,8 @@ public class Main {
 		
 		System.out.println("O gwuwuuwu é gay");
 		
+
+		
 		
 	}
 	
